@@ -32,7 +32,7 @@
 
 ## Admin & inquiry
 
-### Use case Description: 5. 대여소 등록
+### 대여소 등록
 
 | Actor Action(관리자) | System Response |
 | --- | --- |
@@ -40,7 +40,7 @@
 | 3. 대여소 이름, 위치(도시, 주소), 자전거 보관 가능 수량, 운영 시간 등 입력 | 4. 입력 데이터에 대한 유효 검증 메시지 출력 |
 | 5. 대여소 등록 버튼 클릭 | 6. 대여소 리스트 조회 화면으로 이동 |
 
-### Use case Description: 6. 대여소 리스트 조회
+### 대여소 리스트 조회
 
 | Actor Action(관리자) | System Response |
 | --- | --- |
@@ -52,14 +52,14 @@
 | --- | --- |
 | 1. None | 2. 등록된 대여소 목록 표시 |
 
-### Use case Description: 7. 대여소 관리 정보 상세 조회
+### 대여소 관리 정보 상세 조회
 
 | Actor Action(관리자) | System Response |
 | --- | --- |
 | 1. None | 2. 대여소 리스트 화면 표시 |
 | 3. 원하는 대여소 항목 선택 | 4. 해당 대여소의 상세 정보(이름, 위치, 자전거 보관 가능 수량, 운영 시간 등) 표시 |
 
-### Use case Description: 8. 자전거 등록
+### 자전거 등록
 
 | Actor Action(관리자) | System Response |
 | --- | --- |
@@ -67,7 +67,7 @@
 | 3. 자전거 ID, 제품명, 유형(일반/전기), 소속 대여소, 상태(사용 가능/수리 중) 등 입력 | 4. 입력 데이터에 대한 유효 검증 메시지 출력 |
 | 5. 자전거 등록 버튼 클릭 | 6. 자전거 리스트 조회 화면으로 이동 |
 
-### Use case Description: 9. 자전거 리스트 조회
+### 9. 자전거 리스트 조회
 
 | Actor Action(관리자) | System Response |
 | --- | --- |
@@ -79,21 +79,21 @@
 | --- | --- |
 | 1. None | 2. 등록된 자전거 목록 표시 |
 
-### Use case Description: 10. 자전거 관리 정보 상세 조회
+### 자전거 관리 정보 상세 조회
 
 | Actor Action(관리자) | System Response |
 | --- | --- |
 | 1. None | 2. 자전거 리스트 화면 표시 |
 | 3. 원하는 자전거 항목 선택 | 4. 해당 자전거의 상세 정보(자전거 ID, 제품명, 유형, 소속 대여소, 상태 등) 표시 |
 
-### Use case Description: 11. 자전거 대여 정보 조회
+### 자전거 대여 정보 조회
 
 | Actor Action(관리자) | System Response |
 | --- | --- |
 | 1. None | 2. 자전거 대여 정보를 최신순으로 표시 |
 | 3. 최신순/지역별 정렬 옵션 선택 | 4. 선택한 옵션으로 정렬된 페이지 표시 |
 
-### Use case Description: 12. 기간별 통계 조회
+### 기간별 통계 조회
 
 | Actor Action(관리자) | System Response |
 | --- | --- |
