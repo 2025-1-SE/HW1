@@ -134,7 +134,7 @@
 
 ### 대여소 검색
 
-| Actor Action(관리자) | System Response |
+| Actor Action(회원) | System Response |
 | --- | --- |
 | 1. None | 2. 메인 페이지 중앙 상단부에 대여소 검색 항목 표시 |
 | 3. 대여소 이름 입력 | 4. 입력 결과와 일치하는 대여소 출력 |
@@ -142,28 +142,28 @@
 
 ### 대여소 상세정보 조회
 
-| Actor Action(관리자) | System Response |
+| Actor Action(회원) | System Response |
 | --- | --- |
 | 1. None | 2. 대여소 검색 결과 화면 출력 |
 | 3. 특정 대여소 선택 | 4. 대여소 상세 정보 출력 |
 
 ### 자전거 예약 대기
 
-| Actor Action(관리자) | System Response |
+| Actor Action(회원) | System Response |
 | --- | --- |
 | 1. None | 2. 대여소 상세 정보 화면 출력 |
 | 3. 자전거 예약 대기 버튼 클릭 | 4. 결과 팝업창 출력 |
 
 ### 자전거 대여 
 
-| Actor Action(관리자) | System Response |
+| Actor Action(회원) | System Response |
 | --- | --- |
 | 1. None |2. 대여소 상세 정보 화면 출력  |
 | 3. 자전거 대여 버튼 클릭 | 4. 일치하는 자전거 예약 정보 나열 |
 
 ### 자전거 예약 대기 정보 조회
 
-| Actor Action(관리자) | System Response |
+| Actor Action(회원) | System Response |
 | --- | --- |
 | 1. None | 2. 자전거 예약 대기 정보 조회 페이지 표시 |
 | 3. 예약 대기 정보 입력 | 4. 일치하는 자전거 예약 정보 나열 |
@@ -171,7 +171,7 @@
 
 ### 자전거 예약 대기 취소
 
-| Actor Action(관리자) | System Response |
+| Actor Action(회원) | System Response |
 | --- | --- |
 | 1. None | 2. 자전거 예약 대기 정보 화면 출력 |
 | 3. 자전거 예약 대기 취소 버튼 클릭 | 4. 결과 팝업창 출력 |
