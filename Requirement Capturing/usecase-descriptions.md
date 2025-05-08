@@ -1,6 +1,6 @@
 ## Common
 
-### Use Case Description: 1. 회원 가입
+### 회원 가입
 
 | Actor Action (회원) | System Response |
 | --- | --- |
@@ -8,7 +8,7 @@
 | 3. ID, 비밀번호, 전화번호, 결제수단, 선호 자전거 유형 입력 | 4. 입력 데이터에 대한 유효성 검증 메시지 출력 |
 | 5. 회원가입 버튼 클릭 | 6. 회원가입 확인 메시지 출력 |
 
-### Use Case Description: 2. 회원 탈퇴
+### 회원 탈퇴
 
 | Actor Action (회원) | System Response |
 | --- | --- |
@@ -16,14 +16,14 @@
 | 3. 회원탈퇴 옵션 선택 | 4. 탈퇴 확인 메시지 출력 |
 | 5. 탈퇴 확인 버튼 클릭 | 6. 탈퇴 완료 메시지 표시 및 메인 페이지로 이동 |
 
-### Use Case Description: 3. 로그인
+### 로그인
 
 | Actor Action (회원/관리자) | System Response |
 | --- | --- |
 | 1. None | 2. 로그인 페이지 표시 |
 | 3. ID와 비밀번호 입력 후 로그인 버튼 클릭 | 4. 로그인 실패 시 ‘아이디 또는 비밀번호가 올바르지 않습니다’ 메시지 출력, 성공 시 메인 페이지로 이동 |
 
-### Use Case Description: 4. 로그아웃
+### 로그아웃
 
 | Actor Action (회원/관리자) | System Response |
 | --- | --- |
